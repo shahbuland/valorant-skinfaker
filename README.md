@@ -34,7 +34,7 @@ Both convert.py and trainer.py can be run and have a basic UI
   1. If you want to continue training from a checkpoint, select "use checkpoint" and provide a valid checkpoint (.pt file)
   2. If you're done and satisfied with the final model, press "extract generator" to get two .pt files from the checkpoint. "toA.pt" will be the generator that converts from weapon/skin B to weapon/skinA and "toB.pt" will be the opposite. For example, if A was the base weapon, and B was the skin, you want "toB.pt" to deepfake the skin. This can then be used with the converting program.
 - Ctrl-C on the python window to stop training
-  - You should stop early based on what you see in samples. I never needed to do full 200 epochs.
+  - You should stop early based on what you see in samples. I never needed to do full 200 epochs. If you're keeping track of the samples folder, where the numbers represent the number of parameter updates, I generally only had to go to around 20,000 before getting results.
 
 **Python Requirements**
 
