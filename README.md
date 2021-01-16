@@ -51,4 +51,4 @@ Both convert.py and trainer.py can be run and have a basic UI
 - Numpy
 - PyQt5
 
-I used miniconda and I think that's probably the simplest way to get this working on windows. You can google how to install each of the above packages in miniconda, each is a single line.
+I used miniconda on Windows and I think that's probably the simplest way to get this working on windows. You can google how to install each of the above packages in miniconda, each is a single line.
