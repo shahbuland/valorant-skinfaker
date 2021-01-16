@@ -1,8 +1,12 @@
 # Valorant SkinFaker
 
-Both convert.py and trainer.py can be run and have a basic UI
+Both convert.py and trainer.py can be run and have a basic UI  
+  
+**Setup** 
+put model for masker in "Masker folder"  
 
 **Converting**
+
 
 - Open the source video (.mp4 or .avi), and generator you want to use (.pt file)
 - Note the 4 check boxes on the side
