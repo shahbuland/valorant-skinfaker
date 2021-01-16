@@ -4,7 +4,8 @@ Both convert.py and trainer.py can be run and have a basic UI
   
 **Setup**  
 
-put model for masker in "Masker folder"  
+- put model for masker ("basnet.pth") in "Masker" folder
+- You can download all models I made in my video as well as the masking model from this [google drive](https://drive.google.com/file/d/1I2889hwmhZXWmfPaaW0L6ldmRU2LjUfN).
 
 **Converting**
 
