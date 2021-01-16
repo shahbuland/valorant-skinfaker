@@ -2,7 +2,8 @@
 
 Both convert.py and trainer.py can be run and have a basic UI  
   
-**Setup** 
+**Setup**  
+
 put model for masker in "Masker folder"  
 
 **Converting**
