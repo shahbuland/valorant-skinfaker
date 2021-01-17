@@ -1,6 +1,8 @@
-# Valorant SkinFaker
+# Valorant SkinFaker  
+  
+This is a python script that uses CycleGAN to deepfake skins from one gun to another. With some minor changes (removing cropping) it could be adapted to be an easy to use CycleGAN trainer + evaluator on any dataset/model, but what I primarily made it for was Valorant skins. 
 
-Both convert.py and trainer.py can be run and have a basic UI  
+Both convert.py and trainer.py can be run directly and have a basic UI  
 [Associated video](https://youtu.be/fQCqbaTI9k4)
   
 **Setup**  
